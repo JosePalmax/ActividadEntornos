@@ -11,11 +11,7 @@ public class App {
                 break;
             case 2:
                 System.out.println("Hola buenas tardes");
-                break;
-            case 3:
-                System.out.println("Hola buenas noches");                
-                break;
-        
+                break;        
             default:
                 System.out.println("Pero dime algo coherente");
                 break;
