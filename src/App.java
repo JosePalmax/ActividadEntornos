@@ -17,6 +17,7 @@ public class App {
                 break;
         
             default:
+                System.out.println("Pero dime algo coherente");
                 break;
         }
         scan.close();
